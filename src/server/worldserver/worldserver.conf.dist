@@ -1744,7 +1744,7 @@ Rate.Drop.Item.ReferencedAmount = 1
 #                     1 - (Rate.XP.Quest)
 #                     1 - (Rate.XP.Explore)
 
-Rate.XP.Kill    = 1
+Rate.XP.Kill    = 7.6
 Rate.XP.Quest   = 1
 Rate.XP.Explore = 1
 
